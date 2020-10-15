@@ -1,0 +1,61 @@
+{
+    "temperatura-atual": {
+        "valor": 23,
+        "status": "alerta"
+    },
+    "temperatura-alarmes": {
+        "valor": 25
+    },
+    "temperatura-historico": [
+        {
+            "valor": 8,
+            "data": "2020-10-13",
+            "status": "ok"
+        },
+        {
+            "valor": 11,
+            "data": "2020-10-12",
+            "status": "ok"
+        },
+        {
+            "valor": 21,
+            "data": "2020-10-11",
+            "status": "alerta"
+        },
+        {
+            "valor": 18,
+            "data": "2020-10-10",
+            "status": "ok"
+        },
+        {
+            "valor": 21,
+            "data": "2020-10-09",
+            "status": "alerta"
+        },
+        {
+            "valor": 25,
+            "data": "2020-10-08",
+            "status": "arriscado"
+        },
+        {
+            "valor": 13,
+            "data": "2020-10-07",
+            "status": "ok"
+        },
+        {
+            "valor": 17,
+            "data": "2020-10-06",
+            "status": "ok"
+        },
+        {
+            "valor": 19,
+            "data": "2020-10-05",
+            "status": "ok"
+        },
+        {
+            "valor": 24,
+            "data": "2020-10-04",
+            "status": "alerta"
+        }
+    ]
+}
